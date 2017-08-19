@@ -1,2 +1,5 @@
-# Star
-星辰大海
+public class Wuyaxin{
+
+
+
+}
